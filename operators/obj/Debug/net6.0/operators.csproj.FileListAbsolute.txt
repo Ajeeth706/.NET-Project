@@ -1,0 +1,14 @@
+C:\Users\Sightspectrum\source\repos\datatype\operators\obj\Debug\net6.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sightspectrum\source\repos\datatype\operators\obj\Debug\net6.0\operators.AssemblyInfoInputs.cache
+C:\Users\Sightspectrum\source\repos\datatype\operators\obj\Debug\net6.0\operators.AssemblyInfo.cs
+C:\Users\Sightspectrum\source\repos\datatype\operators\obj\Debug\net6.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\Sightspectrum\source\repos\datatype\operators\bin\Debug\net6.0\operators.exe
+C:\Users\Sightspectrum\source\repos\datatype\operators\bin\Debug\net6.0\operators.deps.json
+C:\Users\Sightspectrum\source\repos\datatype\operators\bin\Debug\net6.0\operators.runtimeconfig.json
+C:\Users\Sightspectrum\source\repos\datatype\operators\bin\Debug\net6.0\operators.dll
+C:\Users\Sightspectrum\source\repos\datatype\operators\bin\Debug\net6.0\operators.pdb
+C:\Users\Sightspectrum\source\repos\datatype\operators\obj\Debug\net6.0\operators.dll
+C:\Users\Sightspectrum\source\repos\datatype\operators\obj\Debug\net6.0\refint\operators.dll
+C:\Users\Sightspectrum\source\repos\datatype\operators\obj\Debug\net6.0\operators.pdb
+C:\Users\Sightspectrum\source\repos\datatype\operators\obj\Debug\net6.0\operators.genruntimeconfig.cache
+C:\Users\Sightspectrum\source\repos\datatype\operators\obj\Debug\net6.0\ref\operators.dll

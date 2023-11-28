@@ -1,0 +1,14 @@
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\bin\Debug\net6.0\datatype conversion.exe
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\bin\Debug\net6.0\datatype conversion.deps.json
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\bin\Debug\net6.0\datatype conversion.runtimeconfig.json
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\bin\Debug\net6.0\datatype conversion.dll
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\bin\Debug\net6.0\datatype conversion.pdb
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\obj\Debug\net6.0\datatype conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\obj\Debug\net6.0\datatype conversion.AssemblyInfoInputs.cache
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\obj\Debug\net6.0\datatype conversion.AssemblyInfo.cs
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\obj\Debug\net6.0\datatype conversion.csproj.CoreCompileInputs.cache
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\obj\Debug\net6.0\datatype conversion.dll
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\obj\Debug\net6.0\refint\datatype conversion.dll
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\obj\Debug\net6.0\datatype conversion.pdb
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\obj\Debug\net6.0\datatype conversion.genruntimeconfig.cache
+C:\Users\Sightspectrum\source\repos\datatype\datatype conversion\obj\Debug\net6.0\ref\datatype conversion.dll

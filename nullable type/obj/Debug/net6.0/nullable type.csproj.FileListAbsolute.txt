@@ -1,0 +1,14 @@
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\bin\Debug\net6.0\nullable type.exe
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\bin\Debug\net6.0\nullable type.deps.json
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\bin\Debug\net6.0\nullable type.runtimeconfig.json
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\bin\Debug\net6.0\nullable type.dll
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\bin\Debug\net6.0\nullable type.pdb
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\obj\Debug\net6.0\nullable type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\obj\Debug\net6.0\nullable type.AssemblyInfoInputs.cache
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\obj\Debug\net6.0\nullable type.AssemblyInfo.cs
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\obj\Debug\net6.0\nullable type.csproj.CoreCompileInputs.cache
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\obj\Debug\net6.0\nullable type.dll
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\obj\Debug\net6.0\refint\nullable type.dll
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\obj\Debug\net6.0\nullable type.pdb
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\obj\Debug\net6.0\nullable type.genruntimeconfig.cache
+C:\Users\Sightspectrum\source\repos\datatype\nullable type\obj\Debug\net6.0\ref\nullable type.dll
