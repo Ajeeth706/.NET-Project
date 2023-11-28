@@ -1,0 +1,14 @@
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\bin\Debug\net6.0\datatype.exe
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\bin\Debug\net6.0\datatype.deps.json
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\bin\Debug\net6.0\datatype.runtimeconfig.json
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\bin\Debug\net6.0\datatype.dll
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\bin\Debug\net6.0\datatype.pdb
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\obj\Debug\net6.0\datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\obj\Debug\net6.0\datatype.AssemblyInfoInputs.cache
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\obj\Debug\net6.0\datatype.AssemblyInfo.cs
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\obj\Debug\net6.0\datatype.csproj.CoreCompileInputs.cache
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\obj\Debug\net6.0\datatype.dll
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\obj\Debug\net6.0\refint\datatype.dll
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\obj\Debug\net6.0\datatype.pdb
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\obj\Debug\net6.0\datatype.genruntimeconfig.cache
+C:\Users\Sightspectrum\source\repos\ConsoleApp5\datatype\obj\Debug\net6.0\ref\datatype.dll
